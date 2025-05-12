@@ -1,0 +1,21 @@
+digraph {
+	Input [label="Input (x_t)"]
+	Hidden [label="Hidden State (h_{t-1})"]
+	InputGate [label="Input Gate (σ)"]
+	ForgetGate [label="Forget Gate (σ)"]
+	OutputGate [label="Output Gate (σ)"]
+	CellState [label="Cell State (C_t)"]
+	ReLU [label=ReLU]
+	Output [label="Output (h_t)"]
+	Input -> InputGate
+	Hidden -> InputGate
+	Input -> ForgetGate
+	Hidden -> ForgetGate
+	Input -> OutputGate
+	Hidden -> OutputGate
+	InputGate -> CellState
+	ForgetGate -> CellState
+	CellState -> ReLU
+	ReLU -> Output
+	OutputGate -> Output
+}
