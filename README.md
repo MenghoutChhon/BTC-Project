@@ -14,28 +14,6 @@ We aim to compare deep learning and traditional machine learning approaches for 
 - **Dok Dominique**
 
 ---
-
-## 📊 Project Structure
-
-
-BTC_Project/
-├── DataPreprocessing/
-├── EDA/
-├── LiteratureReview/
-├── Model/
-├── Report/
-├── LICENSE
-├── README.md
-├── densenet121_architecture.png
-├── image4.png
-├── image5.png
-├── image6.png
-├── image9.png
-├── image10.png
-├── image11.png
-├── logoAMS.png
-├── logolTC.png
-
 ## 📚 Project Components
 
 - **DataPreprocessing/**: Scripts for cleaning, transforming, and preparing BTC price data.
