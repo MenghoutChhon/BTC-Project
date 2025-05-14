@@ -50,7 +50,3 @@ For any inquiries or collaboration opportunities:
 
 ---
 
-## ⭐️ Acknowledgments
-
-Special thanks to our lecturers for their valuable guidance throughout this project.
-
