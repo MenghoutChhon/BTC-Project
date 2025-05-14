@@ -16,11 +16,11 @@ We aim to compare deep learning and traditional machine learning approaches for 
 ---
 ## 📚 Project Components
 
-- **DataPreprocessing/**: Scripts for cleaning, transforming, and preparing BTC price data.
-- **EDA/**: Exploratory Data Analysis notebooks and visualizations.
-- **LiteratureReview/**: Collection of research papers and articles referenced.
-- **Model/**: Model development, experimentation (LSTM and XGBoost implementations).
-- **Report/**: Final project report detailing methodology, results, and discussion.
+- **DataPreprocessing**: Scripts for cleaning, transforming, and preparing BTC price data.
+- **EDA**: Exploratory Data Analysis notebooks and visualizations.
+- **LiteratureReview**: Collection of research papers and articles referenced.
+- **Model**: Model development, experimentation (LSTM and XGBoost implementations).
+- **Report**: Final project report detailing methodology, results, and discussion.
 - **Images**: Visual assets used in the project (model diagrams, charts, logos, etc.)
 
 ---
@@ -52,5 +52,5 @@ For any inquiries or collaboration opportunities:
 
 ## ⭐️ Acknowledgments
 
-Special thanks to our lecturer and mentors for their valuable guidance throughout this project.
+Special thanks to our lecturers for their valuable guidance throughout this project.
 
